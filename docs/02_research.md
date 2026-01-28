@@ -7,6 +7,10 @@ permalink: /research/
 ---
 
 #### Journal Papers Published or In Press
+30. **Loa, P.**, Lee, Y., Circella, G., 2025. “Exploring Variations in Vehicle-Miles Traveled
+ Among Latent Classes of Shared Mobility Users in California”. *International Journal of Sustainable Transportation*. 
+ DOI: 10.1080/15568318.2026.2624709. 
+ 
 29. **Loa, P.**, Lee, Y., Circella, G., 2025. “Examining Post-pandemic Ride-hailing Use in California and its Determinants”. 
 *Transportation Research Record*. 
 DOI: [10.1177/03611981251380589](https://journals.sagepub.com/doi/10.1177/03611981251380589).
@@ -123,16 +127,15 @@ DOI: [10.1080/15568318.2024.2363203](https://www.tandfonline.com/doi/full/10.108
  DOI: [10.1177/0361198120966601](https://journals.sagepub.com/doi/10.1177/0361198120966601).
  
 #### Journal Papers Under Review
-5. **Loa, P.**, Lee, Y., Circella, G., 2025. “Just Another Ride-hailing? Examining the Determinants of Robotaxi Demand in San Francisco”.
+5. **Loa, P.**, Giller, J., Lee, Y., Circella, G., 2026. “Beyond Availability: Investigating Incentive Familiarity Among California Ride-hailing Drivers”. 
 
-4. Giller, J., Iogansen, X., Circella, G., Young, M., Lee, Y., **Loa., P.**, 2025. “Ridehailing Drivers' Perceptions and Adoption of
+4. **Loa, P.**, Lee, Y., Circella, G., 2025. “Just Another Ride-hailing? Examining the Determinants of Robotaxi Demand in San Francisco”.
+
+3. Giller, J., Iogansen, X., Circella, G., Young, M., Lee, Y., **Loa., P.**, 2025. “Ridehailing Drivers' Perceptions and Adoption of
  Electric Vehicles: Insights from a Stratified Random Sample Survey”.
  
-3. Iogansen, X., Giller, J., Young, M., **Loa, P.**, Lee, Y., Bunch, D.S., Circella, G., 2025. 
+2. Iogansen, X., Giller, J., Young, M., **Loa, P.**, Lee, Y., Bunch, D.S., Circella, G., 2025. 
 “Motivations and Barriers to Electrifying Ridehailing Services: Evidence from California TNC Drivers”. 
-
-2. **Loa, P.**, Lee, Y., Circella, G., 2025. “Exploring Variations in Vehicle-Miles Traveled
- Among Latent Classes of Shared Mobility Users in California”.
  
 1. Naila Meghna. N., **Loa, P.**, Hasnine, Md. S., 2024. “How Do Students Make a Choice of Activity Types? - 
 A Dynamic Discrete Choice Analysis of Activity Type Selection in A Tour-Based Approach”. 
