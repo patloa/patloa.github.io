@@ -8,8 +8,8 @@ permalink: /research/
 
 #### Journal Papers Published or In Press
 30. **Loa, P.**, Lee, Y., Circella, G., 2025. “Exploring Variations in Vehicle-Miles Traveled
- Among Latent Classes of Shared Mobility Users in California”. *International Journal of Sustainable Transportation (in-press)*. 
- DOI: 10.1080/15568318.2026.2624709. 
+ Among Latent Classes of Shared Mobility Users in California”. *International Journal of Sustainable Transportation*. 
+ DOI: [10.1080/15568318.2026.2624709](https://www.tandfonline.com/doi/full/10.1080/15568318.2026.2624709). 
  
 29. **Loa, P.**, Lee, Y., Circella, G., 2025. “Examining Post-pandemic Ride-hailing Use in California and its Determinants”. 
 *Transportation Research Record*. 
