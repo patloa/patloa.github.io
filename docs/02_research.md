@@ -7,6 +7,14 @@ permalink: /research/
 ---
 
 #### Journal Papers Published or In Press
+
+32. Giller, J., Iogansen, X., Circella, G., Young, M., Lee, Y., **Loa., P.**, 2026. 
+“Ridehailing Drivers' Perceptions and Adoption of Electric Vehicles: Insights from a Stratified Random 
+Sample Survey”. Case Studies on Transport Policy. DOI: [10.1016/j.cstp.2026.101775](https://doi.org/10.1016/j.cstp.2026.101775).
+
+31. Iogansen, X., Giller, J., Young, M., **Loa, P.**, Lee, Y., Bunch, D.S., Circella, G., 2026. “Motivations and Barriers to
+ Electrifying Ridehailing Services: Evidence from California TNC Drivers”. *Transportation Research Part D (in-press)*.
+
 30. **Loa, P.**, Lee, Y., Circella, G., 2025. “Exploring Variations in Vehicle-Miles Traveled
  Among Latent Classes of Shared Mobility Users in California”. *International Journal of Sustainable Transportation*. 
  DOI: [10.1080/15568318.2026.2624709](https://www.tandfonline.com/doi/full/10.1080/15568318.2026.2624709). 
