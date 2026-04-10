@@ -8,12 +8,16 @@ permalink: /research/
 
 #### Journal Papers Published or In Press
 
+33. **Loa, P.**, Lee, Y., Circella, G., 2026. “Just Another Ride-hailing? Examining the Determinants of Robotaxi Demand in San Francisco”.
+*Transportation*. DOI: [10.1007/s11116-026-10751-9](https://doi.org/10.1007/s11116-026-10751-9).
+
 32. Giller, J., Iogansen, X., Circella, G., Young, M., Lee, Y., **Loa., P.**, 2026. 
 “Ridehailing Drivers' Perceptions and Adoption of Electric Vehicles: Insights from a Stratified Random 
-Sample Survey”. Case Studies on Transport Policy. DOI: [10.1016/j.cstp.2026.101775](https://doi.org/10.1016/j.cstp.2026.101775).
+Sample Survey”. *Case Studies on Transport Policy*. DOI: [10.1016/j.cstp.2026.101775](https://doi.org/10.1016/j.cstp.2026.101775).
 
 31. Iogansen, X., Giller, J., Young, M., **Loa, P.**, Lee, Y., Bunch, D.S., Circella, G., 2026. “Motivations and Barriers to
- Electrifying Ridehailing Services: Evidence from California TNC Drivers”. *Transportation Research Part D (in-press)*.
+ Electrifying Ridehailing Services: Evidence from California TNC Drivers”. *Transportation Research Part D*.
+ DOI: [10.1016/j.trd.2026.105247](https://doi.org/10.1016/j.trd.2026.105247).
 
 30. **Loa, P.**, Lee, Y., Circella, G., 2025. “Exploring Variations in Vehicle-Miles Traveled
  Among Latent Classes of Shared Mobility Users in California”. *International Journal of Sustainable Transportation*. 
@@ -31,8 +35,8 @@ DOI: [10.1016/j.tra.2025.104566](https://www.sciencedirect.com/science/article/p
  Post-Pandemic Comparison of Telework-Only and In-Person Workdays”. *Transportation Research Record*, 2679(11): 260-273. 
  DOI: [10.1177/03611981251347299](https://journals.sagepub.com/doi/10.1177/03611981251347299).
 
-26. Sohi, M., **Loa, P.**, Ozbilen, B., Iogansen, X., Lee, Y., Circella, G., 2025. “How Do E-Shopping and Built Environment
- Factors Affect Shopping VMT?”. *Transportation Research Part D*, 139: 104567. 
+26. Sohi, M., **Loa, P.**, Ozbilen, B., Iogansen, X., Lee, Y., Circella, G., 2025. “Examining Complex Impacts of E-shopping and Built 
+Environment Factors on Shopping VMT”. *Transportation Research Part D*, 139: 104567. 
  DOI: [10.1016/j.trd.2024.104567](https://www.sciencedirect.com/science/article/abs/pii/S1361920924005248).
 
 25. **Loa, P.**, Iogansen, X., Lee, Y., Circella, G., 2025. “Not All Ride-hailing Trips Are Created Equal: An Examination of Additional Trips
@@ -135,16 +139,10 @@ DOI: [10.1080/15568318.2024.2363203](https://www.tandfonline.com/doi/full/10.108
  DOI: [10.1177/0361198120966601](https://journals.sagepub.com/doi/10.1177/0361198120966601).
  
 #### Journal Papers Under Review
-5. **Loa, P.**, Giller, J., Lee, Y., Circella, G., 2026. “Beyond Availability: Investigating Incentive Familiarity Among California Ride-hailing Drivers”. 
+3. Lecompte, M.C., **Loa, P.**, Circella, G., 2026. “Evaluating Disparities in Perceived Mode Availability for Non-commuting Trips in California”.
 
-4. **Loa, P.**, Lee, Y., Circella, G., 2025. “Just Another Ride-hailing? Examining the Determinants of Robotaxi Demand in San Francisco”.
+2. **Loa, P.**, Giller, J., Lee, Y., Circella, G., 2026. “Beyond Availability: Investigating Incentive Familiarity Among California Ride-hailing Drivers”. 
 
-3. Giller, J., Iogansen, X., Circella, G., Young, M., Lee, Y., **Loa., P.**, 2025. “Ridehailing Drivers' Perceptions and Adoption of
- Electric Vehicles: Insights from a Stratified Random Sample Survey”.
- 
-2. Iogansen, X., Giller, J., Young, M., **Loa, P.**, Lee, Y., Bunch, D.S., Circella, G., 2025. 
-“Motivations and Barriers to Electrifying Ridehailing Services: Evidence from California TNC Drivers”. 
- 
 1. Naila Meghna. N., **Loa, P.**, Hasnine, Md. S., 2024. “How Do Students Make a Choice of Activity Types? - 
 A Dynamic Discrete Choice Analysis of Activity Type Selection in A Tour-Based Approach”. 
 
