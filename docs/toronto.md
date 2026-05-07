@@ -1,7 +1,7 @@
 ---
 layout: page
 title: City of Toronto Vehicle-for-Hire (VfH) Bylaws Review
-permalink: /ride-hailing-Toronto
+permalink: /ride-hailing-Toronto/
 
 nav_exclude: true
 ---

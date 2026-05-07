@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Assessing the Competition of Transportation Network Companies (TNC) and Public Transit in the Greater Vancouver Region 
-permalink: /ride-hailing-Vancouver
+permalink: /ride-hailing-Vancouver/
 
 nav_exclude: true
 ---

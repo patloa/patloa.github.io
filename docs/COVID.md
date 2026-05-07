@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Exploring the Impacts of COVID-19 on Ride-sourcing use in the Greater Toronto Area 
-permalink: /COVID-ride-hailing
+permalink: /COVID-ride-hailing/
 
 nav_exclude: true
 ---

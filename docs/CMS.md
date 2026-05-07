@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Assessing Early Impacts of the Clean Miles Standard on California Ride-hailing Drivers
-permalink: /CMS-project
+permalink: /CMS-project/
 
 nav_exclude: true
 ---

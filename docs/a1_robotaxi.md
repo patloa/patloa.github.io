@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Examining the determinants of robotaxi demand in San Francisco
-permalink: /san-francisco-robotaxi
+permalink: /san-francisco-robotaxi/
 
 nav_exclude: true
 ---
