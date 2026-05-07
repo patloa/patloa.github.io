@@ -6,6 +6,26 @@ permalink: /projects/
 
 ---
 #### Ongoing projects:
+<div style="display:flex; gap:20px; margin-bottom:30px; align-items:flex-start;">
+
+	<img src="/images/waymo.jpg"
+		 alt="A customer opening the door of a Waymo"
+		 style="width:150px; border-radius:8px;">
+		 
+	<div style="flex:1;">
+	
+		<h3>
+			<a href="projects/san-francisco-robotaxi/">
+				Examining the determinants of robotaxi demand in San Francisco
+			</a>
+		</h3>
+		
+	</div>
+
+</div>
+
+
+
 ![A customer opening the door of a Waymo](/images/waymo.jpg){: style="float: left; width: 150px; margin-right: 1em;"}
 
 <span style="font-size: 1.5rem;">
