@@ -21,7 +21,7 @@ DOI: [10.1016/j.cstp.2026.101775](https://doi.org/10.1016/j.cstp.2026.101775).
  DOI: [10.1016/j.trd.2026.105247](https://doi.org/10.1016/j.trd.2026.105247).
 
 30. **Loa, P.**, Lee, Y., Circella, G., 2025. “Exploring Variations in Vehicle-Miles Traveled
- Among Latent Classes of Shared Mobility Users in California”. *International Journal of Sustainable Transportation*, 1-15. 
+ Among Latent Classes of Shared Mobility Users in California”. *International Journal of Sustainable Transportation*, 20(9): 891-905. 
  DOI: [10.1080/15568318.2026.2624709](https://www.tandfonline.com/doi/full/10.1080/15568318.2026.2624709). 
  
 29. **Loa, P.**, Lee, Y., Circella, G., 2025. “Examining Post-pandemic Ride-hailing Use in California and its Determinants”. 
