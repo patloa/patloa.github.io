@@ -8,6 +8,9 @@ permalink: /research/
 
 #### Journal Papers Published or In Press
 
+34. Lecompte, M.C., **Loa, P.**, Circella, G., 2026. “Evaluating Disparities in Perceived Mode Availability for 
+Non-commuting Trips in California”. *Journal of Urban Mobility*. DOI: [10.1016/j.urbmob.2026.100318](https://www.sciencedirect.com/science/article/pii/S2667091726001354)
+
 33. **Loa, P.**, Lee, Y., Circella, G., 2026. “Just Another Ride-hailing? Examining the Determinants of Robotaxi Demand in San Francisco”.
 *Transportation*. DOI: [10.1007/s11116-026-10751-9](https://doi.org/10.1007/s11116-026-10751-9).
 
@@ -140,9 +143,7 @@ DOI: [10.1080/15568318.2024.2363203](https://www.tandfonline.com/doi/full/10.108
  DOI: [10.1177/0361198120966601](https://journals.sagepub.com/doi/10.1177/0361198120966601).
  
 #### Journal Papers Under Review
-3. Lecompte, M.C., **Loa, P.**, Circella, G., 2026. “Evaluating Disparities in Perceived Mode Availability for Non-commuting Trips in California”.
-
-2. **Loa, P.**, Giller, J., Lee, Y., Circella, G., 2026. “Beyond Availability: Investigating Incentive Familiarity Among California Ride-hailing Drivers”. 
+2. Reshetnikova, A., Hossain, S., **Loa, P.**, 2026. “Location, Location, Location: Exploring the Spatial Heterogeneity of Bikeshare Demand in Toronto”.
 
 1. Naila Meghna. N., **Loa, P.**, Hasnine, Md. S., 2024. “How Do Students Make a Choice of Activity Types? - 
 A Dynamic Discrete Choice Analysis of Activity Type Selection in A Tour-Based Approach”. 
